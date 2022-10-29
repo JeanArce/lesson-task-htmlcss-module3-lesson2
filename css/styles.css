@@ -116,6 +116,7 @@ footer {
 
 .selling-points__images {
   border-radius: 100px;
+  width: 100%;
 }
 
 .reviews {
@@ -162,7 +163,7 @@ textarea {
   padding: 0px 30px;
 }
 
-.product-specific_details a {
+.product-specific_details a | {
   display: block;
   width: 95.767;
   margin: auto;
